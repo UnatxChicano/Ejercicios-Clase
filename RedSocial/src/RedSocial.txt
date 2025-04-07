@@ -1,0 +1,32 @@
+Mensaje nº1
+Texto: Primer mensaje de texto
+usuario: anita23
+instante: 17453156748
+likes: 10
+Comentario: Comentario nº1
+comentario: comentario nº2
+----------------------------------
+Mensaje nº2
+Texto: Segundo mensaje de texto
+usuario: juanperez
+instante: 17453167890
+likes: 20
+Comentario: Comentario nº3
+comentario: comentario nº4
+----------------------------------
+Mensaje nº3
+Texto: Tercer mensaje de texto
+usuario: maria_88
+instante: 17453168912
+likes: 5
+Comentario: Comentario nº5
+comentario: comentario nº6
+----------------------------------
+Mensaje nº4
+Texto: Cuarto mensaje de texto
+usuario: carlos2025
+instante: 17453169234
+likes: 15
+Comentario: Comentario nº7
+comentario: comentario nº8
+----------------------------------
